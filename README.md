@@ -1,7 +1,7 @@
 # ESP32S3_SDR_Guition
 ESP32S3 SDR radio with a resistive touch screen from Guition and SSB, AM and FM demodulation
 Got inspiration from Cvarc-Xtal project published on https://github.com/Cvarc-Xtal/ESP32-SDR-TRX
-He made a very good basis project for the development of SDR transceiver using ESP32 I2S capabilities and addad comrehencive graphics which is popular in SDR radios.
+He made a very good basis project for the development of SDR transceiver using ESP32 I2S capabilities and added a comrehencive graphics which is popular in SDR radios.
 I have modified code and added some new functionality and to imroove the AM demodulation while also added FM demodulation.
 My goal was to make fully functional receiver with minimal hardware involvement.
 
@@ -27,7 +27,7 @@ Sofware:
 - Arduino IDE 2.3.6
 - Please find Library dependancy out from the source code
 
-Link to Demo video:
+Link to Demo video: https://youtu.be/Y9zZ3sQKupU
 
 To do:
 - Add TX functionality
