@@ -27,7 +27,7 @@ Sofware:
 - Arduino IDE 2.3.6
 - Please find Library dependancy out from the source code
 
-Link to Demo video: https://youtu.be/Y9zZ3sQKupU
+Link to Demo video: https://www.youtube.com/watch?v=Y9zZ3sQKupU&ab_channel=stojanmarkic
 
 To do:
 - Add TX functionality
